@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Controle()
+comment1.params=
+comment1.target=void\ inicia()
+comment2.params=
+comment2.target=void\ incluiTurma()
+comment3.params=
+comment3.target=void\ incluiAluno()
+comment4.params=
+comment4.target=void\ listaTurmas()
+comment5.params=
+comment5.target=void\ listaAlunos()
+comment6.params=
+comment6.target=void\ limpaScanner()
+comment7.params=matricula
+comment7.target=Aluno\ getAlunoByMatricula(java.lang.String)
+comment8.params=codigo
+comment8.target=Turma\ getTurmaByCodigo(java.lang.String)
+comment9.params=
+comment9.target=void\ matriculaAluno()
+numComments=10
